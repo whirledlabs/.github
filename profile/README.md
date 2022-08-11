@@ -1,5 +1,7 @@
 An ideation lab specializing in technological innovation and industry disruption
 
+<img src="https://github.com/whirledlabs/.github/blob/main/profile/wearebuilding.png" />
+
 # Project Pipeline
 
 ## [Checksum](https://github.com/checksumso)
