@@ -1,6 +1,6 @@
 An ideation lab specializing in technological innovation and industry disruption
 
-<img src="https://github.com/whirledlabs/.github/blob/main/profile/wearebuilding.png" />
+<img src="https://github.com/whirledlabs/.github/blob/main/profile/wearebuilding3.png" />
 
 # Project Pipeline
 
